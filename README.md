@@ -32,7 +32,7 @@ Number of Teams
 ### 3. Report Visualization:
 I chose appropriate visuals to convey the following insights:</br>
 a. Host Country Frequency: </br>
-&emsp;Display the number of times each country has hosted the championship on a map. </br>
+&emsp;Display the number of times the championship was hosted by the host country  on a map. </br>
 b. Top 5 World Cup Winners:</br>
 &emsp;Highlight the top 5 countries that have won the World Cup the most.</br>
 c. Teams Participation:</br>
