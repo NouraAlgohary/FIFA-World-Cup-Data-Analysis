@@ -13,6 +13,9 @@ This project involves extracting, profiling, and analyzing FIFA World Cup data f
 ### 1. Data Extraction:
 
 Extract data from the relevant tables on the Wikipedia page: [FIFA World Cup Wikipedia](https://en.wikipedia.org/wiki/FIFA_World_Cup) using Power BI import mode.
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/21cf9a4b-1da2-4839-b8ad-c4f9c0bdc2f0)
+
 ### 2. Data Cleaning and ETL:
 - Profile and clean the extracted data.
 - Perform Extract, Transform, and Load (ETL) operations to structure the data for analysis.
@@ -23,6 +26,9 @@ Champion
 Runner-up
 Final Score
 Number of Teams
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/31d23f60-34fb-4b4b-a778-20b4c507acba)
+
 ### 3. Report Visualization:
 I chose appropriate visuals to convey the following insights:</br>
 a. Host Country Frequency: </br>
