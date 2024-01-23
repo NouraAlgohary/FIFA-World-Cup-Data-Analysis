@@ -1,8 +1,10 @@
 # FIFA-World-Cup-Data-Analysis
 
 ### Power BI Dashboard
-You can view our interactive Power BI Report [here](https://app.powerbi.com/groups/me/reports/86643965-c92d-4166-a477-6937acea6124/ReportSection?experience=power-bi). 
-![Capture](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/20730847-3d86-41c1-918c-003a64ed5597)
+You can view our interactive Power BI Report [here](https://app.powerbi.com/groups/me/reports/41614564-3ab7-4418-998e-ae25f0e83747/ReportSection?experience=power-bi). 
+
+![Capture](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/b998f44b-43f1-4a99-bb63-ebfb0552d672)
+
 
 ## Project Overview:
 This project involves extracting, profiling, and analyzing FIFA World Cup data from the Wikipedia website. The primary focus is on creating a comprehensive report that includes key information such as the year, host country, champion, runner-up, final score, and the number of participating teams. The project aims to provide insightful visualizations for better understanding and interpretation of the data.
