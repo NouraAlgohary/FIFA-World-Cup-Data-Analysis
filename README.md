@@ -1,7 +1,7 @@
 # FIFA-World-Cup-Data-Analysis
 
 ## Power BI Dashboard
-You can view our interactive Power BI Report [here](https://app.powerbi.com/groups/me/reports/41614564-3ab7-4418-998e-ae25f0e83747/ReportSection?experience=power-bi). 
+You can view my interactive Power BI Report [here](https://app.powerbi.com/groups/me/reports/41614564-3ab7-4418-998e-ae25f0e83747/ReportSection?experience=power-bi). 
 
 ![Capture](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/b998f44b-43f1-4a99-bb63-ebfb0552d672)
 
