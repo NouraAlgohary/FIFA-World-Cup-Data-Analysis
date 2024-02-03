@@ -19,11 +19,31 @@ Extract data from the relevant tables on the Wikipedia page: [FIFA World Cup Wik
 
 ### 1. Data Profiling:
 #### Data Types and Formats:
-- Ed.: Numeric
-- Year: Numeric
-- Host: Categorical
-- Final, Third-place play-off, Champion, Runner-up, Third, Fourth: Categorical
-- No. of teams: Numeric
+- Ed. (Edition):</br>
+Data Type: Numeric</br>
+Description: Represents the edition or number of the FIFA World Cup. It indicates the sequential order of each tournament.</br>
+
+- Year:</br>
+Data Type: Numeric</br>
+Description: Indicates the calendar year in which the FIFA World Cup tournament took place.</br>
+
+- Host:</br>
+Data Type: Categorical</br>
+Description: Specifies the country that hosted the FIFA World Cup for a particular edition.</br>
+
+- Final, Third-place play-off, Champion, Runner-up, Third, Fourth:</br>
+Data Type: Categorical</br>
+Description: These columns provide information about the teams involved in different stages of the tournament:</br>
+"Final" indicates the teams that reached the final match.</br>
+"Third-place play-off" indicates the teams that competed for the third-place position.</br>
+"Champion" indicates the team that won the championship.</br>
+"Runner-up" indicates the team that finished as the runner-up.</br>
+"Third" indicates the team that finished in third place.</br>
+"Fourth" indicates the team that finished in fourth place.</br>
+
+- No. of teams:</br>
+Data Type: Numeric</br>
+Description: Represents the total number of teams that participated in a specific edition of the FIFA World Cup.</br>
 
 #### Statistical Summary:
 Number of editions of the FIFA World Cup
