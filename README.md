@@ -14,9 +14,38 @@ This project involves extracting, profiling, and analyzing FIFA World Cup data f
 
 Extract data from the relevant tables on the Wikipedia page: [FIFA World Cup Wikipedia](https://en.wikipedia.org/wiki/FIFA_World_Cup) using Power BI import mode.
 
-![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/21cf9a4b-1da2-4839-b8ad-c4f9c0bdc2f0)
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/22a6e5f8-eb84-40c4-b6b1-614e1a57cfb4)
 
-### 2. Data Cleaning and ETL:
+
+### 1. Data Profiling:
+#### Data Types and Formats:
+- Ed.: Numeric
+- Year: Numeric
+- Host: Categorical
+- Final, Third-place play-off, Champion, Runner-up, Third, Fourth: Categorical
+- No. of teams: Numeric
+
+#### Statistical Summary:
+Number of editions of the FIFA World Cup
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/d3fb47a6-65c8-40c2-b182-48b2d224c981)
+
+Distribution of the World Cup years
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/93fb98db-d669-4590-a34b-2a43ae82f16f)
+
+Frequency of hosting by countries
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/1bb7eb8d-5260-4075-810b-fd9074c00623)
+
+Frequency of teams winning the championship
+
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/20fe045a-b17b-44dc-a299-1c305ed5aaec)
+
+No. of teams
+![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/86f5c2ed-b2d9-4031-84ce-7cf2f9f27e9e)
+
+### 3. Data Cleaning and ETL:
 - Profile and clean the extracted data.
 - Perform Extract, Transform, and Load (ETL) operations to structure the data for analysis.
 - Load the following fields:
@@ -29,7 +58,7 @@ Number of Teams
 
 ![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/31d23f60-34fb-4b4b-a778-20b4c507acba)
 
-### 3. Report Visualization:
+### 4. Report Visualization:
 I chose appropriate visuals to convey the following insights:</br>
 a. Host Country Frequency: </br>
 &emsp;Display the number of times the championship was hosted by the host country  on a map. </br>
