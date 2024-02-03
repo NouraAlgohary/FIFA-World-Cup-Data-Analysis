@@ -17,7 +17,7 @@ Extract data from the relevant tables on the Wikipedia page: [FIFA World Cup Wik
 ![image](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis/assets/103903785/22a6e5f8-eb84-40c4-b6b1-614e1a57cfb4)
 
 
-### 1. Data Profiling:
+### 2. Data Profiling:
 #### Data Types and Formats:
 - Ed. (Edition):</br>
 Data Type: Numeric</br>
